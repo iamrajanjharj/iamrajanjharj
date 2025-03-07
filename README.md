@@ -3,7 +3,7 @@
 **`Full-Stack Developer | Backend Enthusiast | Researcher`**
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a love for solving real-world problems using cutting-edge technology. Currently, I'm pursuing a **Master's in Computer Science** at **San Diego State University**. When I'm not diving deep into code, you'll find me learning new frameworks, contributing to open-source, or exploring ways to optimize applications.
-
+<!--
 ### 🌱 About Me
 - 🖥️ **Software Engineer** with experience at **Samsung R&D** and **PRISMASOFT**.
 - 📊 Former **Graduate Research Assistant** at SDSU Research Foundation.
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 - 💌 **Email**: [jharajan20@gmail.com](mailto:jharajan20@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/iamrajanjha)
 - 💻 [GitHub](https://github.com/iamrajanjharj)
-
+-->
 ### 🌟 Fun Facts & Hobbies
 - 🎶 **Music Lover**: Developed a **music recommendation system** to mix my passion for music and tech.
 - 💻 **Backend Developer**: Always excited about learning **new backend technologies** and optimizing web services.
